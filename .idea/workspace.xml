@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6d3696d-f867-40ec-8067-8a0db5185102" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Unitesting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unitesting/unittesting/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unitesting/unittesting/test_hello_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dos/.idea/dos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dos/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dos/dos.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dos/zeus2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dos/zues3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eus/.idea/eus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eus/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eus/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eus/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eus/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eus/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eusuba/start.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/api/recovery.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csdp/api/recovery.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/loan/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csdp/loan/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/partner/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csdp/partner/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/scripts/.fulfillment_callback_worker.py.swo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/scripts/.fulfillment_callback_worker.py.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/scripts/.sweep_recovery1.py.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/scripts/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csdp/scripts/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/scripts/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csdp/scripts/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/scripts/cron.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csdp/scripts/cron.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/scripts/daemon.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csdp/scripts/daemon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/scripts/fulfillment_push.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csdp/scripts/fulfillment_push.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/scripts/fulfillment_worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csdp/scripts/fulfillment_worker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/scripts/push.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csdp/scripts/push.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/scripts/rmq_conf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/scripts/sweep_push.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/scripts/sync_fulfillment.bkup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csdp/scripts/sync_fulfillment.bkup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/scripts/sync_history.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csdp/scripts/sync_history.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/scripts/sync_inward_transactions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csdp/scripts/sync_inward_transactions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/scripts/sync_outward_transactions.py.bkup" beforeDir="false" afterPath="$PROJECT_DIR$/../csdp/scripts/sync_outward_transactions.py.bkup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/scripts/sync_transactions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csdp/scripts/sync_transactions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdp/scripts/worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csdp/scripts/worker.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/airtel/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1626">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/qrcode_new.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uba/HQ/HQ_ubaM_1.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scannerr/templates/admin/base_site.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/airtel/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="27" column="65" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/airtel/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="62" column="69" selection-start-line="62" selection-start-column="69" selection-end-line="62" selection-end-column="69" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tiny</find>
+      <find>STATIC</find>
+      <find>STATICFILES_DIRS</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bin" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/.virtualenvs/pt3/lib/python3.7/site-packages/shorturlpy/shorturlpy.py" />
+        <option value="$PROJECT_DIR$/airtel/migrations/0002_auto_20191022_1349.py" />
+        <option value="$PROJECT_DIR$/airtel/migrations/0004_auto_20191223_1937.py" />
+        <option value="$PROJECT_DIR$/airtel/migrations/0003_appregistration.py" />
+        <option value="$PROJECT_DIR$/airtel/templates/airtel/agent.html" />
+        <option value="$PROJECT_DIR$/scannerr/urls.py" />
+        <option value="$PROJECT_DIR$/script/consumer.py" />
+        <option value="$PROJECT_DIR$/airtel/templates/airtel/agent_activation.html" />
+        <option value="$PROJECT_DIR$/airtel/templates/airtel/agent_login.html" />
+        <option value="$PROJECT_DIR$/airtel/middleware.py" />
+        <option value="$PROJECT_DIR$/plural/test.py" />
+        <option value="$PROJECT_DIR$/airtel/templates/airtel/enter_msisdn.html" />
+        <option value="$PROJECT_DIR$/scannerr/settings.py" />
+        <option value="$PROJECT_DIR$/airtel/models.py" />
+        <option value="$PROJECT_DIR$/airtel/admin.py" />
+        <option value="$PROJECT_DIR$/airtel/views.py" />
+        <option value="$PROJECT_DIR$/bin/qrcode_new.py" />
+        <option value="$PROJECT_DIR$/scannerr/templates/admin/base_site.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectId" id="1ShX74w7RhFmw6b7B5UVj7SlI2y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ubaqrcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubaqrcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubaqrcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubaqrcode" type="462c0819:PsiDirectoryNode" />
+              <item name="scannerr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubaqrcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubaqrcode" type="462c0819:PsiDirectoryNode" />
+              <item name="scannerr" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ubaqrcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ubaqrcode" type="462c0819:PsiDirectoryNode" />
+              <item name="scannerr" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/airteltv" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/airtel" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/script" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.shorturlpy">
+    <configuration name="bin" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="scanner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/scanner/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/.virtualenvs/travel/bin" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shorturlpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="scanner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/.virtualenvs/pt3/lib/python3.7/site-packages/shorturlpy" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/.virtualenvs/pt3/lib/python3.7/site-packages/shorturlpy/shorturlpy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.shorturlpy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6d3696d-f867-40ec-8067-8a0db5185102" name="Default Changelist" comment="" />
+      <created>1572016630673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572016630673</updated>
+      <workItem from="1573058285519" duration="542000" />
+      <workItem from="1573660414641" duration="711000" />
+      <workItem from="1574081888883" duration="490000" />
+      <workItem from="1575376072113" duration="590000" />
+      <workItem from="1575459598723" duration="293000" />
+      <workItem from="1575997402712" duration="8172000" />
+      <workItem from="1576056016482" duration="852000" />
+      <workItem from="1576499967966" duration="2184000" />
+      <workItem from="1576757739361" duration="1127000" />
+      <workItem from="1577112845110" duration="7283000" />
+      <workItem from="1577449994236" duration="13261000" />
+      <workItem from="1577471383686" duration="1170000" />
+      <workItem from="1577524286200" duration="5430000" />
+      <workItem from="1577703026992" duration="2316000" />
+      <workItem from="1578034159386" duration="223000" />
+      <workItem from="1578035499071" duration="360000" />
+      <workItem from="1578470527262" duration="1386000" />
+      <workItem from="1578956853148" duration="972000" />
+      <workItem from="1579171965110" duration="134000" />
+      <workItem from="1579254221484" duration="579000" />
+      <workItem from="1579418566167" duration="7042000" />
+      <workItem from="1579628452319" duration="5148000" />
+      <workItem from="1579684343565" duration="544000" />
+      <workItem from="1579762390669" duration="334000" />
+      <workItem from="1579801478725" duration="5823000" />
+      <workItem from="1580070493258" duration="1140000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68106000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33394384" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.24598931" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pictures/LAGOS/Lagos_A44.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/Lagos/abiodun_lateef.png" />
+    <entry file="file://$PROJECT_DIR$/pictures/Lagos/chinye_nwabuzor.png" />
+    <entry file="file://$PROJECT_DIR$/pictures/Lagos/odianosen_ewah.png" />
+    <entry file="file://$PROJECT_DIR$/pictures/Lagos/ogochukwu_amaefunah.png" />
+    <entry file="file://$PROJECT_DIR$/pictures/Lagos/ogochukwu_chigbo.png" />
+    <entry file="file://$PROJECT_DIR$/pictures/Lagos/olutayo_patience.png" />
+    <entry file="file://$PROJECT_DIR$/pictures/LAGOS/Lagos_A104.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/LAGOS/Lagos_A102.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/A500.csv" />
+    <entry file="file://$PROJECT_DIR$/pictures/SOUTH/SOUTH_A0.png" />
+    <entry file="file://$PROJECT_DIR$/pictures/SOUTH/SOUTH_A1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/SOUTH/SOUTHA500.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/WEST/WEST_A0.png" />
+    <entry file="file://$PROJECT_DIR$/pictures/WEST/WEST_A1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/WEST/WESTA500.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/NE/NEA500.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/LAGOS/LAGOSA500.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/LAGOS/Lagos_A0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/pt3/lib/python3.7/site-packages/shorturlpy/shorturlpy.py" />
+    <entry file="file://$PROJECT_DIR$/airtel/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtel/migrations/0002_auto_20191022_1349.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtel/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtel/migrations/0004_auto_20191223_1937.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scannerr/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-start-column="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtel/migrations/0003_appregistration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#73#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/consumer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/scripts.bundle.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtel/middleware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="12" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtel/templates/airtel/agent_activation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="104" selection-start-line="54" selection-start-column="104" selection-end-line="54" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restart.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/HQ/HQA500.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtel/templates/airtel/agent_login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="64" selection-start-line="56" selection-start-column="64" selection-end-line="56" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plural/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/require.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" selection-start-line="65" selection-end-line="65" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scannerr/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="e#642#674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtel/templates/airtel/enter_msisdn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="67" selection-start-line="63" selection-start-column="67" selection-end-line="63" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/Abiodun_Agoro.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/LAGOS/Lagos_A1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/ogochukwu_amaefunah.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airteltv/HQ/HQA500.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scannerr/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="128" column="23" lean-forward="true" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airteltv/LAGOS/LAGOS_airteltv_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airteltv/LAGOS/LAGOSA500.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtel/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="65" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtel/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="62" column="69" selection-start-line="62" selection-start-column="69" selection-end-line="62" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtel/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1626">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/qrcode_new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uba/HQ/HQ_ubaM_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scannerr/templates/admin/base_site.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
