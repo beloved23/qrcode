@@ -78,7 +78,7 @@ tornado==4.4.2
 traitlets==4.3.2
 tzlocal==1.4
 Unidecode==0.4.21
-urllib3==1.22
+urllib3==1.24.2
 utils==0.9.0
 wcwidth==0.1.7
 webencodings==0.5.1
