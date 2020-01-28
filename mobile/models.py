@@ -51,24 +51,6 @@ class Download(models.Model):
         return self.app.name
 
 
-class HbbActivation(models.Model):
-    msisdn = models.CharField(max_length=13, null=True)
-    alter_msisdn = models.CharField(max_length=13, null=True)
-    agent_msisdn = models.CharField(max_length=13, null=True)
-    date_created = models.DateTimeField(auto_now_add=True)
-
-    def __unicode__(self):
-        return self.msisdn
-
-
-class Agent(models.Model):
-    msisdn = models.CharField(max_length=10, null=False)
-    date_created = models.DateTimeField(auto_now_add=True)
-
-    def __unicode__(self):
-        return self.msisdn
-
-
 # class DownloadUrl():
 #     product = models.CharField(max_length=13, null=True)
 #     name = models.CharField(choice=APP, max_length=10, null=False)

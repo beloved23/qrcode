@@ -39,7 +39,7 @@ def create_qr(app, path):
     print(url)
     qr.add_data(url)
     qr.make(fit=True)
-    img = qr.make_image(fill_color="black", back_color="white")
+    img = qr.make_image(fill_color="red", back_color="white")
     img.save(path + "%s.png" % name)
 
 

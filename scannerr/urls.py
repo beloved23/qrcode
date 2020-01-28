@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
-from airtel.views import *
+from mobile.views import *
 from django.conf.urls.static import static
 
 urlpatterns = [

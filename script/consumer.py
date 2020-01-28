@@ -18,7 +18,7 @@ sys.path.append(BASE_DIR)
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "scannerr.settings")
 django.setup()
 
-from airtel.models import AppRegistration
+from mobile.models import AppRegistration
 from dateutil import parser
 
 
