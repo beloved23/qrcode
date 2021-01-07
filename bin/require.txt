@@ -42,7 +42,7 @@ idna==2.5
 ipython==5.4.1
 ipython-genutils==0.2.0
 kombu==3.0.33
-lxml==3.8.0
+lxml==4.6.2
 ntlm-auth==1.0.5
 olefile==0.44
 ordereddict==1.1
