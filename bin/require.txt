@@ -39,7 +39,7 @@ gunicorn==19.6.0
 html5lib==0.999999999
 httplib2==0.10.3
 idna==2.5
-ipython==5.4.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 kombu==3.0.33
 lxml==3.8.0
